@@ -24,6 +24,14 @@
     "chroma",
     "ai"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i-kundankumar/create-rag-app.git"
+  },
+  "homepage": "https://github.com/i-kundankumar/create-rag-app",
+  "bugs": {
+    "url": "https://github.com/i-kundankumar/create-rag-app/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.6.2",
