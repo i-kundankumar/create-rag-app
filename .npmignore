@@ -1,0 +1,14 @@
+# Auto-generated .npmignore file
+node_modules
+.next
+.DS_Store
+.env
+my-rag-app
+dist
+coverage
+.git
+.github
+.vscode
+test
+# Do not ignore the templates folder, it is needed for the CLI
+!templates
